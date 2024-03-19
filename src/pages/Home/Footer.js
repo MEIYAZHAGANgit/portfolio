@@ -7,11 +7,10 @@ function Footer() {
 
    </div>
    <div className=" flex items-center justify-center flex-col mt-10">
-    <h1 className=" text-white">
-      Design and Developed By
-    </h1>
+   
     <h className=" text-white">
-     <span className=" text-white">MEIYAZHAGAN P</span>
+       <a href="Resume.pdf" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">RESUME </a>
+
     </h>
    </div>
 
